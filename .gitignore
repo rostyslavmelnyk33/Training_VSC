@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Verilator
+obj_dir/
+
+# Waveforms
+*.vcd
+
+# Yosys / Graphviz
+*.dot
+*.json
+*.svg
+*.png
+
+# Temporary
+*.log
